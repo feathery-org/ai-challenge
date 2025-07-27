@@ -8,7 +8,7 @@ The goal of this challenge is to optimize the current extraction logic to improv
 
 There are many ways to approach this challenge. We are looking to see how you navigate the challenge and showcase your problem solving skills.
 
-Once you've completed the challenge, invite Andy (@ondrosh) and Peter (@bo-dun-1) as collaborators to your Github fork so we can review it. Please email us a link to the repository as well once you're finished!
+Once you've completed the challenge, invite Andy ([@ondrosh](https://github.com/ondrosh)) and Peter ([@bo-dun-1](https://github.com/bo-dun-1)) as collaborators to your Github fork so we can review it. Please email us a link to the repository as well once you're finished!
 
 ## Requirements
 
