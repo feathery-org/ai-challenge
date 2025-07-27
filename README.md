@@ -6,6 +6,8 @@ This project provides you with the foundation to extract data from a financial s
 
 The goal of this challenge is to optimize the current extraction logic to improve the speed of the extraction. The current extraction completes in an average time of just over 30 seconds. While doing this, you should keep token usage in mind as we do not want to inflate it by a whole lot.
 
+There are many ways to approach this challenge. We are looking to see how you navigate the challenge and showcase your problem solving skills.
+
 Once you've completed the challenge, invite Andy (@ondrosh) and Peter (@bo-dun-1) as collaborators to your Github fork so we can review it. Please email us a link to the repository as well once you're finished!
 
 ## Requirements
