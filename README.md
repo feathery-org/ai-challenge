@@ -17,9 +17,10 @@ Once you've completed the challenge, invite Andy (@ondrosh) and Peter (@bo-dun-1
 
 ## Getting Started
 
-1. Fork the repository
-2. Install the dependencies by running `yarn`
-3. Copy the `.env.template` to a new file named `.env` in the root of the project. Copy your OpenAI API key into the new `.env` file.
+1. Create a new **private** repository using this one as a template (Click the "Use this template" button on the repository's page)
+2. Clone your new repository
+3. Install the dependencies by running `yarn`
+4. Copy the `.env.template` to a new file named `.env` in the root of the project. Copy your OpenAI API key into the new `.env` file.
 
 You can run the extraction via the command:
 
@@ -32,3 +33,7 @@ yarn extract
 1. Do not modify the `src/index.ts` file.
 2. The current extraction code can be found in `src/extraction.ts`.
 3. The time and usage are logged each time you run `yarn extract`.
+
+## OpenAI Usage
+
+We will reimburse you for the OpenAI usage that was needed to complete this challenge.
