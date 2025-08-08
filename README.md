@@ -4,7 +4,7 @@ This project provides you with the foundation to extract data from a financial s
 
 ## Challenge
 
-The goal of this challenge is to optimize the current extraction logic to improve the speed of the extraction. The current extraction completes in an average time of just over 30 seconds. While doing this, you should keep token usage in mind as we do not want to inflate it by a whole lot.
+The goal of this challenge is to optimize the current extraction logic to improve the speed of the extraction at scale. The current extraction completes in an average time of just over 30 seconds for a document that has ~30 pages. Assuming we were to give it a larger document, 100+ pages, we need to ensure that it runs quickly and accurately.
 
 There are many ways to approach this challenge. We are looking to see how you navigate the challenge and showcase your problem solving skills.
 
